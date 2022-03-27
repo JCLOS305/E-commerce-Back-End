@@ -64,9 +64,9 @@ Enter local root PW.
   
 `npm start`
 
-![SCREENSHOT1](ASSETS/images/GET%20routes.gif)
-![SCREENSHOT2](ASSETS/images/GET%20routes%20single%20categories.gif)
-![SCREENSHOT3](ASSETS/images/PUT%20DELETE%20POST.gif)
+![SCREENSHOT1](https://github.com/JCLOS305/E-commerce-Back-End/blob/main/assets/images/GET%20routes%20single%20categories.gif?raw=true)
+![SCREENSHOT2](https://github.com/JCLOS305/E-commerce-Back-End/blob/main/assets/images/GET%20routes.gif?raw=true)
+![SCREENSHOT3](https://github.com/JCLOS305/E-commerce-Back-End/blob/main/assets/images/PUT%20DELETE%20POST.gif?raw=true)
 
 ## Testing
 
