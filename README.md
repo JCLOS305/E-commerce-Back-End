@@ -64,6 +64,10 @@ Enter local root PW.
   
 `npm start`
 
+![SCREENSHOT1](ASSETS/images/GET%20routes.gif)
+![SCREENSHOT2](ASSETS/images/GET%20routes%20single%20categories.gif)
+![SCREENSHOT3](ASSETS/images/PUT%20DELETE%20POST.gif)
+
 ## Testing
 
 No testing is set up
@@ -87,9 +91,9 @@ for this specific assignment I had help from 2 of my classmates
 
 In order of apperance 
 
-![Alex Noble-James](https://github.com/alexnj1)
+[Alex Noble-James](https://github.com/alexnj1)
 
-![Wilmer Ojeda](https://github.com/wilmerojeda13)
+[Wilmer Ojeda](https://github.com/wilmerojeda13)
 
 [PLEASE GIVE THEM A FOLLOW THEY ARE AMAZING DEVELOPERS]
 
