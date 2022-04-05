@@ -1,4 +1,4 @@
-# E-commerce-Back-End Created by Jeancarlos Mulet & Wilmer Ojeda w/ 🙌 The University of Miami 🙌
+# 'Travelers Wish List'Created by Jeancarlos Mulet & Wilmer Ojeda w/ 🙌 The University of Miami 🙌
 
 ## Description
 
