@@ -1,13 +1,13 @@
-# 'Travelers Wish List'Created by Jeancarlos Mulet & Wilmer Ojeda w/ 🙌 The University of Miami 🙌
+# E-commerce-Back-End Created by Jeancarlos Mulet w/ 🙌 The University of Miami 🙌
 
 ## Description
 
-'Travelers Wish List' is a blog style app dedicated to help you and your friends keep track of your future vacations!
-'Travelers Wish List' was created with the forgetful millenial in mind
+'mysql database/application backend for an e-commerce website ,using MySQL2, Express, Sequelize and dotenv. repository includes tests!
 
 ## Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
+- [Acceptance Criterea](#Acceptance-Criterea)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,9 +18,9 @@
 ## User Story
   
 ```
-AS A forgetful human who loves to travel!
-I WANT an application that can help me allocate resources, websites for resorts, and friends 
-SO THAT my future vacations can have structure
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
 ```
   
 
@@ -45,6 +45,7 @@ Enter local root PW.
 
 `quit`
 
+`npm run seed`
   
 `npm start`
 
@@ -54,7 +55,7 @@ Enter local root PW.
 
 ## Testing
 
-TESTING IS PROVIDED
+No testing is set up
 
 
 ## Credits
@@ -70,21 +71,12 @@ and directions from my Instructor
 
 - Felicia O'Garra
 
-this specific projects was created bt 4 developers
-
-In order of apperance 
-
-[Jeancarlos Mulet](https://github.com/jclos305)
-
-[Wilmer Ojeda](https://github.com/wilmerojeda13)
-
-[PLEASE GIVE THEM A FOLLOW THEY ARE AMAZING DEVELOPERS]
 
 ## License
 
 MIT License
 
-Copyright (c) 2022 Jeancarlos , Wilmer
+Copyright (c) 2022 Jeancarlos 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -111,4 +103,4 @@ SOFTWARE.
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
-© April 2022  Jeancarlos, Wilmer - University of Miami
+© April 2022  Jeancarlos - University of Miami
