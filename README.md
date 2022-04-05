@@ -3,7 +3,7 @@
 ## Description
 
 'Travelers Wish List' is a blog style app dedicated to help you and your friends keep track of your future vacations!
-'Travelers Wish List'
+'Travelers Wish List' was created with the forgetful millenial in mind
 
 ## Table of Contents
 - [Description](#description)
