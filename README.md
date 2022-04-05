@@ -1,13 +1,13 @@
-# E-commerce-Back-End Created by Jeancarlos Mulet w/ 🙌 The University of Miami 🙌
+# E-commerce-Back-End Created by Jeancarlos Mulet & Wilmer Ojeda w/ 🙌 The University of Miami 🙌
 
 ## Description
 
- mysql database/application backend for an e-commerce website ,using MySQL2, Express, Sequelize and dotenv. repository includes tests!
+'Travelers Wish List' is a blog style app dedicated to help you and your friends keep track of your future vacations!
+'Travelers Wish List'
 
 ## Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,26 +18,11 @@
 ## User Story
   
 ```
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+AS A forgetful human who loves to travel!
+I WANT an application that can help me allocate resources, websites for resorts, and friends 
+SO THAT my future vacations can have structure
 ```
   
-## Acceptance Criteria
-  
-``` 
-GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
-WHEN I enter schema and seed commands
-THEN a development database is created and is seeded with test data
-WHEN I enter the command to invoke the application
-THEN my server is started and the Sequelize models are synced to the MySQL database
-WHEN I open API GET routes in Insomnia for categories, products, or tags
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete data in my database
-```
 
 
 ## Installation
@@ -60,7 +45,6 @@ Enter local root PW.
 
 `quit`
 
-`npm run seed`
   
 `npm start`
 
@@ -70,13 +54,12 @@ Enter local root PW.
 
 ## Testing
 
-No testing is set up
-
+TESTING IS PROVIDED
 
 
 ## Credits
 
-For this Challange I referenced my code in a similar project and my modules in class, Youtube, Google, Instructions from my Class TA's
+For this Challange we referenced code in a similar project and my modules in class, Youtube, Google, Instructions from my Class TA's
 
 - Jordan 
 - Jocelyn 
@@ -87,11 +70,11 @@ and directions from my Instructor
 
 - Felicia O'Garra
 
-for this specific assignment I had help from 2 of my classmates 
+this specific projects was created bt 4 developers
 
 In order of apperance 
 
-[Alex Noble-James](https://github.com/alexnj1)
+[Jeancarlos Mulet](https://github.com/jclos305)
 
 [Wilmer Ojeda](https://github.com/wilmerojeda13)
 
@@ -101,7 +84,7 @@ In order of apperance
 
 MIT License
 
-Copyright (c) 2022 Jeancarlos
+Copyright (c) 2022 Jeancarlos , Wilmer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -128,4 +111,4 @@ SOFTWARE.
 ![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
 
 
-© March 2022 Jeancarlos Mulet - University of Miami
+© April 2022  Jeancarlos, Wilmer - University of Miami
